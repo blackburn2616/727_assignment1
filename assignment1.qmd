@@ -15,6 +15,8 @@ This assignment is to be submitted individually. Turn in this assignment as an H
 
 -   At least one commit with your name, with a description of what you did in that commit.
 
+[Link to my practice Github Repo from week 1](https://github.com/blackburn2616/testrepo "Practice Github Repo")
+
 ## Reading Data
 
 Download both the Angell.dta (Stata data format) dataset and the Angell.txt dataset from this website: <https://stats.idre.ucla.edu/stata/examples/ara/applied-regression-analysis-by-fox-data-files/>
